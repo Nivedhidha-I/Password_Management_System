@@ -1,0 +1,14 @@
+{
+    "TestApp": {
+        "app_id": 1,
+        "length": 12,
+        "cap": 3,
+        "small": 2,
+        "num": 1,
+        "special": 0,
+        "not_include": [
+            "a",
+            "u"
+        ]
+    }
+}

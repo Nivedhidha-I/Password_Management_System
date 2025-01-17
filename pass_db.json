@@ -1,0 +1,12 @@
+{
+    "1": {
+        "user_id": 1,
+        "app_id": 1,
+        "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$TbsUvs7OWHhXeh36/qW0LQ$xJji8bqHEGPdGLP2BaSge3N6hqLDH6d5fYR3g4q4raI"
+    },
+    "2": {
+        "user_id": 2,
+        "app_id": 1,
+        "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$mICdbYF+uHAzcwQ6tavCPA$IP5BAO3RxV5Wd+33ueGxNKLZNRJIejl8sUMBsXKFfoY"
+    }
+}
