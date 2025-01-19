@@ -1,14 +1,23 @@
 {
     "TestApp": {
         "app_id": 1,
-        "length": 12,
-        "cap": 3,
-        "small": 2,
-        "num": 1,
-        "special": 0,
+        "length": 14,
+        "cap": 2,
+        "small": 4,
+        "num": 3,
+        "special": 1,
         "not_include": [
-            "a",
-            "u"
+            "u",
+            "U"
         ]
+    },
+    "AnotherApp": {
+        "app_id": 2,
+        "length": 20,
+        "cap": 0,
+        "small": 0,
+        "num": 0,
+        "special": 0,
+        "not_include": []
     }
 }
